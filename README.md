@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Pietro Zanetelli, Desenvolvedor Front End 😁
+## Bem-vindo(a) ao perfil de Pietro Zanetelli, Desenvolvedor Web Front End 😁
 
  <div>
    <a href="https://github.com/PietroZanetelliDev">
